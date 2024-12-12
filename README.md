@@ -1,5 +1,4 @@
 # Data-Analyst-Sharyll
-
 # Project Title: Data Analysis and ETL Pipeline Design for "The Road Ahead" Projects
 
 ## Objective
